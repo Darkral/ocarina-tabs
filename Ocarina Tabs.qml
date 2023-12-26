@@ -11,7 +11,6 @@ MuseScore {
                   console.log("Ocarina Tabs: undefined score");
                   Qt.quit()
             }
-            // starting
             // define function to get text from pitch            
             var pitch_to_text;
             pitch_to_text = function(pitch) {
