@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1352995021
-ModificationTime: 1703623437
+ModificationTime: 1703863594
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -84,7 +84,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 19
+WinInfo: 52 26 19
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65538 21
@@ -347,7 +347,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,263
  389 255 389 255 372 255 c 128,-1,264
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -566,7 +566,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,251
  389 255 389 255 372 255 c 128,-1,252
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -804,7 +804,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,268
  389 255 389 255 372 255 c 128,-1,269
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -1049,7 +1049,7 @@ SplineSet
  414 230 414 230 401.5 242.5 c 128,-1,274
  389 255 389 255 372 255 c 128,-1,275
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -1302,7 +1302,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,280
  389 255 389 255 372 255 c 128,-1,281
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -1573,7 +1573,7 @@ SplineSet
  342 226 342 226 351 234.5 c 128,-1,300
  360 243 360 243 372.5 243 c 128,-1,301
 EndSplineSet
-Validated: 11010089
+Validated: 41
 EndChar
 
 StartChar: glyph
@@ -1853,7 +1853,7 @@ SplineSet
  342 226 342 226 351 234.5 c 128,-1,314
  360 243 360 243 372.5 243 c 128,-1,315
 EndSplineSet
-Validated: 2621477
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -2062,7 +2062,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,242
  389 255 389 255 372 255 c 128,-1,243
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -2279,7 +2279,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,249
  389 255 389 255 372 255 c 128,-1,250
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -2507,7 +2507,7 @@ SplineSet
  414 230 414 230 401.5 242.5 c 128,-1,259
  389 255 389 255 372 255 c 128,-1,260
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -2742,7 +2742,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,265
  389 255 389 255 372 255 c 128,-1,266
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -2987,7 +2987,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,274
  389 255 389 255 372 255 c 128,-1,275
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -3241,7 +3241,7 @@ SplineSet
  414 230 414 230 401.5 242.5 c 128,-1,282
  389 255 389 255 372 255 c 128,-1,283
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -3503,7 +3503,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,289
  389 255 389 255 372 255 c 128,-1,290
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -3775,7 +3775,7 @@ SplineSet
  413 230 413 230 401 242.5 c 128,-1,297
  389 255 389 255 372 255 c 128,-1,298
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -4060,7 +4060,7 @@ SplineSet
  342 226 342 226 351 234.5 c 128,-1,309
  360 243 360 243 372.5 243 c 128,-1,310
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -4352,7 +4352,7 @@ SplineSet
  342 226 342 226 351 234.5 c 128,-1,316
  360 243 360 243 372.5 243 c 128,-1,317
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph
@@ -4650,7 +4650,7 @@ SplineSet
  342 226 342 226 351 234.5 c 128,-1,320
  360 243 360 243 372.5 243 c 128,-1,321
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 EndChars
 EndSplineFont
