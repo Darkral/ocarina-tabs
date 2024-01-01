@@ -39,17 +39,18 @@ The score must be/have:
 
 **TL;DR:** You will need **(1)** to copy the plugin folder `10holeocarinatabs` into the MuseScore plugin folder and **(2)** install the font with ocarina glyphs/tabs.
 
-1. Download as .zip file the folder `https://github.com/Darkral/ocarina-tabs/tree/main/10holeocarinatabs` through [download-directory.github.io](https://download-directory.github.io/)
+1. Check this repo releases or directly go to the [latest](https://github.com/Darkral/ocarina-tabs/releases/tag/v1.0)
+1. Download the source .zip file and extract the folder `10holeocarinatabs`
 1. Locate your MuseScore plugin folder, typically at:
    - **Windows:** `%HOMEPATH%\Documents\MuseScore3\Plugins` or `%HOMEPATH%\Documents\MuseScore4\Plugins`
    - **macOS:** `~/Documents/MuseScore3/Plugins` or `~/Documents/MuseScore4/Plugins`
    - **Linux:** `~/Documents/MuseScore3/Plugins` or `~/Documents/MuseScore4/Plugins`
-1. Inside MuseScore plugin folder, create a new folder `...\Plugins\10holeocarinatabs` and copy here the contents of the .zip file
-1. Finally, you can find "Ocarina" font in `..\10holeocarinatabs\font` folder;  
-   if you are on Windows, double click on `Ocarina.ttf` and follow the installation procedure
+1. Inside MuseScore plugin folder, copy the `10holeocarinatabs` folder
+1. Finally, you can find the "Ocarina" font in `..\10holeocarinatabs\font` folder;  
+   on Windows, double click on `Ocarina.ttf` and follow the installation procedure
 
 > [!NOTE]
-> remeber to enable the plugin inside MuseScore [3.x](https://musescore.org/en/handbook/3/plugins) or [4.x](https://musescore.org/en/handbook/4/plugins).
+> remeber to enable the plugin inside MuseScore [3.x](https://musescore.org/en/handbook/3/plugins) or [4.x](https://musescore.org/en/handbook/4/plugins)
 
 ## Demo
 
