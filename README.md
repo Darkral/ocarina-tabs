@@ -29,6 +29,12 @@ The score must be/have:
 [GNU GPL v3](https://www.gnu.org/licenses/licenses.html.en)
 
 
+## Acknowledgements
+
+ - Firstly, thanks to [Fabio Menaglio](https://www.youtube.com/watch?v=ln7p4MG0EuQ) for his wondrous ocarinas.
+ - Secondly, thanks to the MuseScore [Community](https://musescore.org/en/forum) and [Plugin Developers](https://musescore.org/en/plugins) for all the references and examples.
+ - Finally, cheers to the open source software community!
+
 ## Installation
 
 **TL;DR:** You will need **(1)** to copy the plugin folder `10holeocarinatabs` into the MuseScore plugin folder and **(2)** install the font with ocarina glyphs/tabs.
@@ -43,7 +49,7 @@ The score must be/have:
    if you are on Windows, double click on `Ocarina.ttf` and follow the installation procedure
 
 > [!NOTE]
-> if your MuseScore is version 3.x, remeber to enable the plugin with the plugin manager.
+> remeber to enable the plugin inside MuseScore [3.x](https://musescore.org/en/handbook/3/plugins) or [4.x](https://musescore.org/en/handbook/4/plugins).
 
 ## Demo
 
@@ -91,9 +97,3 @@ MuseScore 4.2.0
    ... or you might simply need to change the strings in the plugin code (.xml file)
  - The plugin works only with treble clefs and infers the type by the dimension and y position of the CLEF element.  
    (code-wise, not the best approach ... but the only workaround considering MuseScore current API)
-
-## Acknowledgements
-
- - Firstly, thanks to [Fabio Menaglio](https://www.youtube.com/watch?v=ln7p4MG0EuQ) for his wondrous ocarinas.
- - Secondly, thanks to the MuseScore [Community](https://musescore.org/en/forum) and [Plugin Developers](https://musescore.org/en/plugins) for all the references and examples.
- - Finally, cheers to the open source software community!
