@@ -367,7 +367,6 @@ MuseScore {
             // add tabs
             addOcarinaTabs(curScore)		
             // exiting
-            infoDialog.showDialog(qsTr("Done!"))
             console.log("10 hole ocarina tabs >> done");
             (typeof(quit) === 'undefined' ? Qt.quit : quit)()
       }
